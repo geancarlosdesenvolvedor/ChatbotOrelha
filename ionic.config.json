@@ -1,0 +1,7 @@
+{
+  "name": "botOrelha",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
